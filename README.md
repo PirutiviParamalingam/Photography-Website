@@ -6,7 +6,7 @@
 
 - HTML5
 - CSS3
-- [Bootstrap 5](https://getbootstrap.com/)
+- [Bootstrap 5.3.7](https://getbootstrap.com/)
 
 ## 🖼️ Features
 
